@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://victorcorreadasilva.github.io/sitemap.xml
